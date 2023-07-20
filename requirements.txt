@@ -1,0 +1,4 @@
+category_encoders
+pandas
+numpy
+sklearn
